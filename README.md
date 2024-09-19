@@ -1,7 +1,4 @@
 ## Olá! Eu sou o Tother 🖐️
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andre.oliver6)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/marcos-oliveira123/)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
