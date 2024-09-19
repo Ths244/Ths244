@@ -13,5 +13,5 @@
 
 Apaixonado por tecnologia, E Me Empenhando Cada Vez Mais Para Aprender Tudo Sobre esse mundo.
 
-![Status](https://github-readme-stats.vercel.app/api?username=Ths244v&show_icons=true&theme=dracula)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ths244v&hide=javascript,html)
+![Status](https://github-readme-stats.vercel.app/api?username=Ths244&show_icons=true&theme=dracula)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ths244&hide=javascript,html)
